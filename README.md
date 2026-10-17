@@ -1,5 +1,7 @@
 # LicensedV1 — Bruce Predatory
 
+https://clintxproduction.github.io/ModulesBruce/
+
 **CLTX4 / ClintXProduction**
 
 GitHub-ready documentation package for the **Bruce Predatory** project.
